@@ -42,7 +42,7 @@ The app delivers accurate, structured, and readable OCR outputs, ensuring minima
 
 ---
 
-## 📷 Screenshots
+## 📷 Screenshot
 
 <img width="1512" alt="Screenshot 2024-12-05 at 8 37 25 PM" src="https://github.com/user-attachments/assets/53732d94-3bad-4fa5-a5cf-9636a0419dce">
 
